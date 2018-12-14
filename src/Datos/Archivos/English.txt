@@ -1,0 +1,25 @@
+Button
+INTRODUCE YOUR NAME
+CHOOSE DIFFICULTY
+EASY
+MEDIUM
+HARD
+INSTRUCTIONS
+TOP 10
+CREDITS
+LANGUAGE
+The mechanics are as follows: Select a sphere with a value and 
+through a trace that can be in any sense, you look for an 
+adjacent sphere of the same value, and these add up. If after 
+the merger, the second sphere has another adjacent sphere that
+be of the value resulting from the two previously selected, 
+they could also be merged, and so on.
+Can you add all the numbers in this challenging game of wit?
+Move the balls or numbered spheres to make them merge. 
+How many movements will you be able to make Until you get it?
+We appreciate the challenge
+Authors:
+Angel Stewart Mantilla Duarte
+David Campero
+ENGLISH
+SPANISH

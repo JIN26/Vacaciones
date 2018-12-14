@@ -1,0 +1,4 @@
+Pedro 1024 300
+mario 1044 500
+miguel 03 100
+luis 2248 900

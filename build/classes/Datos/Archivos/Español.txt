@@ -1,0 +1,25 @@
+Boton
+INTRODUCE TU NOMBRE
+ELIGE DIFICULTAD
+FACIL
+MEDIO
+DIFICIL
+INSTRUCCIONES
+TOP 10
+CREDITOS
+IDIOMA
+La mecánica es la siguiente: Se selecciona una esfera con un valor y
+ a través de un trazo que puede ser en cualquier sentido, se busca una 
+esfera adyacente del mismo valor, y éstas se suman. Si después de 
+la fusión, la segunda esfera tiene otra esfera adyacente que
+sea del valor resultante de las dos anteriormente seleccionadas,
+también se podrían fusionar, y así sucesivamente.
+¿Podrás sumar todos los números en este desafiante juego de ingenio? 
+Mueve las bolas ó esferas numeradas para hacerlas fusionarse. 
+¿Cuántos movimientos lograrás hacer hasta que te trabes?
+Agradecemos el reto
+Version 1.0; //Una version con cambio de tema saldra la otra semana
+Autores:
+David Campero & Angel Stewart Mantilla Duarte
+ENGLISH
+ESPAÑOL
